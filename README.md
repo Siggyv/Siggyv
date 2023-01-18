@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siggyv
 - About me: I was born in Milwaukee, and enjoy AI, CS, and stocks.
-- I am currently studying at UW Madison for my undergrad degrees in computer science B.S. and Business: Finance, Investment, and Banking B.B.A.
-- Current Project: Cheapest flights between two cities.
+- I am currently studying at UW Madison for my undergrad degrees in Computer Science B.S. and Data Science B.S.
+- Current Project: Premier League Data Analysis.
 - Side Interests: Artificial Intelligence, Soccer/Football (Premier league), and the Packers.
