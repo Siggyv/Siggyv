@@ -3,4 +3,4 @@
 - Graduated from UW Madison with my undergrad degrees in Computer Science B.S. and Data Science B.S.
 - Now attending the Technical University of Munich for my M.Sc. in Informatics (their Computer Science equivalent).
 - Current Project: Learning about world models.
-- Beyond CS I'd love to talk about: Soccer/Football (Premier league), the Packers, chess, guitar and cooking.
+- Beyond CS I'd love to talk about: Soccer/Football (Premier league), the Packers, chess, guitar, billiards (built my own table!) and cooking.
