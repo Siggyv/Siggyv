@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Siggyv
-- About me: I was born in Milwaukee, and enjoy AI, CS, and stocks.
-- I am currently studying at UW Madison for my undergrad degrees in Computer Science B.S. and Data Science B.S.
-- Current Project: Serverless Image Recognition, Serverless PIP-mirror OpenLambda, KAN in Go.
-- Side Interests: Computer Vision, Soccer/Football (Premier league), and the Packers.
+- About me: I was born in Milwaukee, and enjoy unique uses of computer vision, CS, stocks, and more.
+- Graduated from UW Madison with my undergrad degrees in Computer Science B.S. and Data Science B.S.
+- Now attending the Technical University of Munich for my M.Sc. in Informatics (their Computer Science equivalent).
+- Current Project: Learning about world models.
+- Beyond CS I'd love to talk about: Soccer/Football (Premier league), the Packers, chess, guitar and cooking.
